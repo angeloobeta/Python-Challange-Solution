@@ -2,7 +2,7 @@
 <hr>
 * ### If you have any problem in Data science Scholarship Python Part then you can see this
 <hr>
-##  Here is available some Tutorial of Python.
+## Here is available some Tutorial of Python.
 
 * ### For W3Schol : [Click Here](https://www.w3schools.com/python/)
 * ### Tutorial Point : [Click Here](https://www.tutorialspoint.com/python/index.htm)
