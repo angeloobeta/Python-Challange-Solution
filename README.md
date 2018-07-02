@@ -1,7 +1,4 @@
-## Here is available solution of Python part
-<hr>
-
-* ### If you have any problem in Data science Scholarship Python Part then you can see this
+## Here is available python challange solved
 
 <hr>
 
